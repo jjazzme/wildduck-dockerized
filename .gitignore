@@ -1,6 +1,7 @@
 config
 .env
 config-generated
+_config-generated
 certs
 acme.json
 update_certs.sh
